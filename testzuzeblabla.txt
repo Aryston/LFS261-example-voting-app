@@ -1,3 +1,8 @@
 Ovo su zvrlje sa windoze masine.
 
+<<<<<<< HEAD
 Idemo isprobat konflikte. Kad izbaci, ovo brisi.
+=======
+
+Ova linija je dodana na githubu.
+>>>>>>> refs/remotes/origin/master
