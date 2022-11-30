@@ -1,1 +1,2 @@
 Ovo je test2.
+ovo je test3. Isprobavam pull i fetch.
