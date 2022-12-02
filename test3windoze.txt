@@ -6,3 +6,4 @@ Promjena treca, windoze.
 
 
 8) konflikt sa strane windoze.
+9) konflikt sa strane git huba.
