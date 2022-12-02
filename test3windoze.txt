@@ -3,3 +3,6 @@ Ovo je test 3. Da vidimo znam li git osnove
 Azurirano na github repo, promjena druga.
 
 Promjena treca, windoze.
+
+
+8) konflikt sa strane windoze.
