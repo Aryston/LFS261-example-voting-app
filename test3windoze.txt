@@ -12,3 +12,6 @@ Promjena treca, windoze.
 
 11) konflikt br.2 windoze strana
 11) konflikt br.2 github strana
+
+
+17) ovo je nova promjena na windoze strani, necju ovo logirat
