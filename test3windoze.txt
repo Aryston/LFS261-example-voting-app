@@ -1,3 +1,5 @@
-Ovo je test 3. Da vidimo znam li git osnove.
+Ovo je test 3. Da vidimo znam li git osnove
 
 Azurirano na github repo, promjena druga.
+
+Promjena treca, windoze.
